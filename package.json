@@ -20,5 +20,8 @@
   "homepage": "https://github.com/DtPhat/ReactLearning#readme",
   "devDependencies": {
     "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "create-react-app": "^5.0.1"
   }
 }
